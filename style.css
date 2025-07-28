@@ -2,3 +2,19 @@ body{
     color:aquamarine;
     background-color: blue;
 }
+header{
+    border-bottom: solid 2 px rgb(42,122,228);
+    padding: 20 px;
+    font-size: 32 px;
+    color: rgb(255, 0, 93);
+}
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamado-texto {
+    margi-right: 5%;
+}
